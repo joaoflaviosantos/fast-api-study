@@ -1,8 +1,8 @@
 <h1 align="center">FAST API - FAKE TRACKS CRUD</h1>
 
 ### BugBytes
-> https://www.bugbytes.io/posts/creating-a-music-track-api-with-fastapi-in-python/
-> https://www.youtube.com/watch?v=gV-EpY2TeQ0
+- [Blog Post](https://www.bugbytes.io/posts/creating-a-music-track-api-with-fastapi-in-python/)
+- [Tutorial Video](https://www.youtube.com/watch?v=gV-EpY2TeQ0)
 
 ### 1 - Running the service:
 
