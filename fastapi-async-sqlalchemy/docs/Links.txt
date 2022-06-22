@@ -1,0 +1,2 @@
+https://fastapi.tiangolo.com/pt/tutorial/
+https://www.youtube.com/watch?v=1CZZAhwqyco
